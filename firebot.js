@@ -1,4 +1,5 @@
 // Firebot. Written by Chaosinc. Be good to the world
+#!/usr/bin/env node
 const TelegramBot = require('node-telegram-bot-api');
 const request = require('request');
 const fs = require('fs');
